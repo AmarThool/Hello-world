@@ -18,6 +18,7 @@
 				<div class="logo"><a href="index.html">Road Trip <span>by TEMPLATED</span></a></div>
 				<a href="#menu"><span>Menu</span></a>
 			</header>
+		<h1> HI ... This is Amar Thool... from your world...</h1>
 
 		<!-- Nav -->
 			<nav id="menu">
